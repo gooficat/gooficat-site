@@ -12,6 +12,6 @@
 
 <style>
 body, html {
-    background-color: #31331f;
+    background-color: #d5cdbc;
 }
 </style>
