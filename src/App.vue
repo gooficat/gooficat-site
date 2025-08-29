@@ -9,3 +9,9 @@
     <Card/>
     <Footer/>
 </template>
+
+<style>
+body, html {
+    background-color: #31331f;
+}
+</style>
